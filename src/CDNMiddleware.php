@@ -1,6 +1,6 @@
 <?php
 
-namespace DorsetDigital\CDNRewrite;
+namespace jrm213\CDNRewrite;
 
 use SilverStripe\Admin\AdminRootController;
 use SilverStripe\Control\Director;
